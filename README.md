@@ -25,8 +25,7 @@ Este proyecto es un **CS Launcher** diseñado para facilitar el acceso, configur
   - Windows 10 (64 bits)  
   - Windows 11 (64 bits)  
 - Counter-Strike:  
-  - Source-Offensive  
-  - Legacy  
+  - Source-Offensive    
 - **Dependencias**:  
   - Steam instalado.  
 
